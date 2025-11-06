@@ -1,7 +1,3 @@
-# Trabalho-integrado-
-Tema: Diabetes e Cicatrização Tecidual em Idosos
-
-<!doctype html>
 <html lang="pt-BR">
 <head>
 <meta charset="utf-8">
