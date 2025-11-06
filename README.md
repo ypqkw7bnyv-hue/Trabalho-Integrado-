@@ -1,3 +1,5 @@
+Trabalho Integrado – Curso de Biomedicina – 6º Período – PUC Minas, 2025.
+Tema: Diabetes e Cicatrização Tecidual em Idosos.
 <html lang="pt-BR">
 <head>
 <meta charset="utf-8">
